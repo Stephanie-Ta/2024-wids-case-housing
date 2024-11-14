@@ -1,0 +1,10 @@
+name: wids-housing
+channels:
+  - conda-forge
+dependencies:
+  - altair
+  - numpy
+  - pandas
+  - scikit-learn
+  - ipykernel
+  - nb_conda_kernels
